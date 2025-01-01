@@ -1,0 +1,5 @@
+Typing to diction
+-   Upload stimuli
+-   change audioSource in "task/trials/typing.js" line 173 to correct folder of sounds
+-   change the replay audio image in "static/images/replayAudio.png"
+
