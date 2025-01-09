@@ -1,7 +1,7 @@
 ﻿ItemNum,Procedure,topleft,topright,botleft,botright,CRESP,TrialType,TargetLocation
 1,showpractice,g,s,z,f,s,Practice,topright
 2,showpractice,s,n,f,h,h,Practice,botright
-3,showlastpractice,sh,ch,wh,ph,wh,Real,botleft
+3,showlastpractice,sh,ch,wh,ph,wh,Practice,botleft
 4,showtrial,b,h,d,p,b,Real,topleft
 5,showtrial,v,f,s,t,f,Real,topright
 6,showtrial,j,r,t,l,l,Real,botright
